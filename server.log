@@ -1,0 +1,74 @@
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /templates.html HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/instagram_carousel.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /images/twin-clouds-logo.svg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /templates.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/video_ad_bg.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/quote_graphic.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/event_promo.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/adobe_express.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/canva_integration.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/figma_integration.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /main.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/carousel1.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/carousel_mockup.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/carousel4.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/carousel2.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/event_promo_2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/carousel3.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/product_announcement.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/quote_graphic.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:26:42] "GET /assets/templates/instagram_carousel.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /templates.html HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /images/twin-clouds-logo.svg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/instagram_carousel.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /templates.css HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/video_ad_bg.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/canva_integration.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/adobe_express.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/figma_integration.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /main.js HTTP/1.1" 200 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/event_promo.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/quote_graphic.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/carousel_mockup.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/carousel4.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/carousel2.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/carousel1.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/carousel3.png HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/event_promo_2.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/product_announcement.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/quote_graphic.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [11/Dec/2025 03:27:48] code 404, message File not found
+127.0.0.1 - - [11/Dec/2025 03:27:48] "GET /assets/templates/instagram_carousel.jpg HTTP/1.1" 404 -
